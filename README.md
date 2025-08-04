@@ -7,6 +7,7 @@ Este es un nuevo repositorio creado para demostrar la integración con Docker y 
 - Repositorio Git local
 - Integración con Docker
 - Push a GitHub
+- Mi primer repositorio en Docker, con la ayuda de git-github, y cursor IDE
 
 ## Autor
 
